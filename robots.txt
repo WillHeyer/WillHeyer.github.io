@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://WillHeyer.github.io/Will-Heyer/sitemap.xml
